@@ -1,0 +1,18 @@
+
+.searchField{
+  width: 300px;
+  height: 40px;
+  padding: 8px;
+  margin: 10px 0;
+  font-size: 17px;
+  border: none;
+  border: 1px solid #ccc;
+  background-color: #ccc;
+  border-radius: 30px;
+  outline: none;
+  transition: 0.2s ease;
+}
+.searchField:hover{
+  border-color:#61dafb;
+  color: rgb(2, 146, 146);
+}
